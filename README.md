@@ -1,5 +1,3 @@
-<img align='right' src = "https://github.com/halimul/github-stats-transparent/blob/output/generated/overview.svg">
-
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">  Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
 
 <p align="justify">
@@ -8,8 +6,9 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/%7Bhalimul%7D/count.svg)
 
-[![Halim's github stats](https://github-readme-stats.vercel.app/api?username=halimul&theme=blue-green)](https://github.com/halimul/github-readme-stats) 
+
 [![Halim's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=halimul&theme=blue-green)](https://github.com/halimul/github-readme-stats)
+
 
 ## Find me and let's connect 
 
