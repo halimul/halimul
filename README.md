@@ -1,4 +1,12 @@
-### Hi there 👋
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">  Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
+
+<p align="justify">
+  Halim is a diligent and creative individual who works hard to attain milestones and accomplish his goals. He possesses an insatiable curiosity and desires to learn about technology, especially data analytics and machine learning. He is also a well-organized person who is dedicated to facing challenges with his creativity. He became involved in a variety of internships, training, courses, and projects. He is also passionate about business, management, products, UI/UX, and consultancy..
+</p>
+
+![Visitor Count](https://profile-counter.glitch.me/%7Bhalimul%7D/count.svg)
+
+<img align='right' src = "https://github.com/halimul/github-stats-transparent/blob/output/generated/languages.svg">
 
 <!--
 **halimul/halimul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
