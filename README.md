@@ -1,3 +1,5 @@
+<img align='right' src = "https://github.com/halimul/github-stats-transparent/blob/output/generated/overview.svg">
+
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">  Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
 
 <p align="justify">
@@ -6,8 +8,17 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/%7Bhalimul%7D/count.svg)
 
-<img align='right' src = "https://github.com/halimul/github-stats-transparent/blob/output/generated/languages.svg">
+[![Halim's github stats](https://github-readme-stats.vercel.app/api?username=halimul&theme=blue-green)](https://github.com/halimul/github-readme-stats) 
+[![Halim's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=halimul&theme=blue-green)](https://github.com/halimul/github-readme-stats)
 
+## Find me and let's connect 
+
+<p>
+  <a href="https://www.linkedin.com/in/halimulhakimkhairul/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+  <a href="https://www.instagram.com/halimul.h.k" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+  <a href="mailto:halimulhakimkhairul@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+  <a href="https://medium.com/@halimulhakimkhairul" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>  
+</p>
 <!--
 **halimul/halimul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
